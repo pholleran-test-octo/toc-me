@@ -8,6 +8,8 @@ chicken
 
 carrots
 
+pepper
+
 celery
 
 peas
