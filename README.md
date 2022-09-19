@@ -10,6 +10,8 @@ carrots
 
 celery
 
+salt
+
 pepper
 
 peas
