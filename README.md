@@ -8,6 +8,8 @@ chicken
 
 carrots
 
+celery
+
 peas
 
 > A GitHub App built with [Probot](https://github.com/probot/probot) that runs [markdown-toc](https://github.com/jonschlinkert/markdown-toc)
