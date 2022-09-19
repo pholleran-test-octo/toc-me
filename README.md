@@ -4,6 +4,8 @@
 
 broth
 
+chicken
+
 carrots
 
 peas
