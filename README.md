@@ -10,6 +10,8 @@ carrots
 
 celery
 
+beans
+
 salt
 
 pepper
